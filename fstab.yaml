@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/sites/alturaeds/Shared%20Documents/lpbeds/shmehta/shmehta-new/website
+  /: https://adobe.sharepoint.com/sites/edsdemo/Shared%20Documents/lpbeds/shmehta/shmehta-new/website
 
 folders:
   /products/: /products/default
