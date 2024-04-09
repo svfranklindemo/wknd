@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1gvl8Sg6u8ZKeBsxDtwBOgnuJkCyL4_I_
+  /: https://adobe.sharepoint.com/sites/edsdemo/Shared%20Documents/lpbeds/shmehta/f-test-011/website
 
 folders:
   /products/: /products/default
